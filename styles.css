@@ -1,0 +1,18 @@
+h1 {
+    font-size: 1000px;
+    color: magenta;
+    text-shadow: 50px 50px 100px yellow;
+    text-align: center;
+
+}
+html {
+    font-size: 1000px;
+    color: magenta;
+    text-shadow: 50px 50px 100px yellow;
+    text-align: center;
+}
+
+body {
+    color: royalblue;
+}
+
